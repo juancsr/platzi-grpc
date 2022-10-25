@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 54321,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "platzi-grpc",
+            "database": "postgres",
+            "username": "postgres"
+        }
+    ]
+}
